@@ -5,14 +5,14 @@ ThemeData lightTheme = ThemeData(
   primaryColor: lPrimaryColor,
   scaffoldBackgroundColor: lPrimaryColor,
   appBarTheme: AppBarTheme(
-    backgroundColor: lPrimaryColor,
+    backgroundColor: darkTealGreen,
   ),
 );
 
 ThemeData darkTheme = ThemeData(
-  primaryColor: darkPrimaryColor,
-  scaffoldBackgroundColor: darkPrimaryColor,
+  primaryColor: dPrimaryColor,
+  scaffoldBackgroundColor: dPrimaryColor,
   appBarTheme: AppBarTheme(
-    backgroundColor: dChatBubbleColor,
+    backgroundColor: dAppBarColor,
   ),
 );
