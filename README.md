@@ -6,15 +6,14 @@ A simple **WhatsApp** clone made with Flutter.
 <br>
 
 > Dark Theme
-1.  #131C21 - Dark Color
-2.  #A9AAAC - Message Text Color in Chat List
-3.  #056162 - Chat Bubble Color
-4.  #323739 - Search Bar Color
-5.  #DCF8C6 - Unread Message Badge
+1. #131C21 - Dark Color
+2. #263238 - Dark App Bar Color
 
 > Light Theme
 1. #FFFFFF - Light Color
-2. #B2B2B2 - Message Text Color in Chat List
-3. #DCF8C6 - Chat Bubble Color
-4. #FFFFFF - Search Bar Color
-5. #DCF8C6 - Unread Message Badge
+
+> Other Colors
+1. #075E54 - Dark Teal Green Color
+2. #128C7E - Light Teal Green Color
+3. #25D366 - Light Green Color
+
