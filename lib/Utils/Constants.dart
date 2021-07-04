@@ -14,6 +14,6 @@ const lPrimaryColor = const Color(0xFFFFFFFF); // Light Primary Color
 // Other Colors
 
 const darkTealGreen = const Color(0xFF075E54); // Dark Teal Green Color
-const lightTealGreen = const Color(0xFF128C7E); // Ligh Teal Green Color
+const lightTealGreen = const Color(0xFF128C7E); // Light Teal Green Color
 const lGreen = const Color(0xFF25D366); // Light Green Color
 

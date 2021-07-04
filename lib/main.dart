@@ -18,7 +18,7 @@ class WhatsAppClone extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: lightTheme,
-      darkTheme: darkTheme,
+      // darkTheme: darkTheme,
     ).modular();
   }
 }
