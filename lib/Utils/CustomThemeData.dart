@@ -4,6 +4,9 @@ import 'package:whats_app_clone/Utils/Constants.dart';
 ThemeData lightTheme = ThemeData(
   primaryColor: lPrimaryColor,
   scaffoldBackgroundColor: lPrimaryColor,
+  floatingActionButtonTheme: FloatingActionButtonThemeData(
+    backgroundColor: lGreen
+  ),
   appBarTheme: AppBarTheme(
     backgroundColor: darkTealGreen,
     textTheme: TextTheme(
@@ -17,9 +20,9 @@ ThemeData lightTheme = ThemeData(
     labelColor: Colors.white,
     labelStyle: TextStyle(fontSize: 14),
     unselectedLabelStyle: TextStyle(fontSize: 14),
-    labelPadding: EdgeInsets.only(bottom: 10),
+    labelPadding: EdgeInsets.only(bottom: 10, top: 15),
     indicator: UnderlineTabIndicator(
-      borderSide: BorderSide(color: Colors.white)
+      borderSide: BorderSide(color: Colors.white, width: 2.5)
     )
   )
 );
